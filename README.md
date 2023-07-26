@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mubarikneja
 - 👀 I’m interested in developing web based applicaion
-- 🌱 I’m currently working On Zamzam Bank as Senior Application Developer
+- 🌱 I’m currently working On Hijra Bank as Manager IS Design and Rollout
 - 💞️ I’m looking to collaborate on Spring Boot Java framework and React.js as front end developemnt
 - 📫 How to reach me 
 - use my email mubarikneja@gmail.com
